@@ -101,11 +101,9 @@ The project utilizes multiple classification models to compare prediction behavi
 
 # 🧠 Conclusion
 
-This project demonstrates the practical application of Machine Learning in healthcare analytics by integrating predictive models into an interactive
-web application. It showcases skills in data preprocessing, feature engineering, model training, and deployment using Streamlit.
+This project demonstrates the practical application of Machine Learning in healthcare analytics by integrating predictive models
+into an interactive web application. It showcases skills in data preprocessing, feature engineering, model training, and deployment 
+using Streamlit.
 
 The project also highlights how machine learning can support preliminary health assessment systems through data-driven predictions.
 
----
-- Pickle
-- 
